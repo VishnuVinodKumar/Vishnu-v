@@ -1,0 +1,47 @@
+body
+    {
+        background-color: rgb(255, 174, 0);
+    }
+    .center
+    {
+        justify-content: center;
+        display: flex;
+    }
+    .group
+    {
+        justify-content: center;
+        display: flex;
+    }
+    .cycle
+    {
+        justify-content: center;
+        display: flex;
+    }
+    fieldset
+    {
+        height:250px;
+        width: 600px;
+    }
+  
+    h1
+    { 
+        background-color: brown;
+        color:white;
+    }
+    .dot
+    {
+        font-size: 23px;
+      
+    }
+    .dash
+    {
+        font-size: 23px;
+        
+    }
+
+    button
+    {
+        background-color: green;
+        text-align: center;
+        font-size: 23px;
+    }
